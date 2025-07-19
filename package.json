@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "jspdf": "^2.5.2",
+    "react-location": "^3.3.4",
+    "react-router-dom": "^6.28.0",
+    "wouter": "^3.3.5"
+  }
+}
