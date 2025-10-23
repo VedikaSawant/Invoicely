@@ -24,8 +24,12 @@ A full-stack web application designed to simplify and automate the invoice lifec
 
   - Spring Boot
   - Hibernate (ORM)
+
+ ### 🔹 Database   
   - MySQL
-  - IntelliJ IDEA / VS Code
+
+### 🔹 Development Platform    
+  - IntelliJ IDEA and VS Code
 
 -----
 
