@@ -83,7 +83,7 @@ A full-stack web application designed to simplify and automate the invoice lifec
 1.  Clone the repository:
 
     ```bash
-    git clone [https://github.com/VedikaSawant/Invoicely.git](https://github.com/VedikaSawant/Invoicely.git)
+    git clone https://github.com/VedikaSawant/Invoicely.git
     ```
 
 2.  Open the `server` folder in IntelliJ IDEA.
@@ -120,7 +120,7 @@ A full-stack web application designed to simplify and automate the invoice lifec
     ```bash
     npm start
     ```
-    The frontend will open at `http://localhost:3000/`
+    The frontend - React app will open at `http://localhost:3000/`
 
 -----
 
