@@ -126,7 +126,6 @@ A full-stack web application designed to simplify and automate the invoice lifec
 
 ## 🔭 Future Scope
 
-  - 🌧️ Support for other weather or access conditions like mobile, night-mode, and low bandwidth.
   - 🔐 User login, roles, and access control.
   - 📊 Analytics dashboard for invoice and payment trends.
   - ☁️ Cloud deployment (e.g., AWS RDS, Heroku, or Render).
